@@ -5,7 +5,7 @@ public class linkedlist {
 		LinkedList<String> OyutniiMedeelel = new LinkedList<String>();
 		
 			//oyutnii medeelel awah
-		  	OyutniiMedeelel.add("Hello world. ~~");
+		  	OyutniiMedeelel.add("Hello world.ssssss");
 		  	//oorchlood
 		  
 		   	System.out.println(OyutniiMedeelel);    
