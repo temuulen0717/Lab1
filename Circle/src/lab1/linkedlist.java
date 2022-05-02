@@ -9,5 +9,10 @@ public class linkedlist {
 		  	//oorchlood
 		  
 		   	System.out.println(OyutniiMedeelel);    
+
+			//dahiad oorclow
+			System.out.println(OyutniiMedeelel);   
+			 	System.out.println(OyutniiMedeelel);   
+				  	System.out.println(OyutniiMedeelel);   
 	}		
 }
