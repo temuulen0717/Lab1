@@ -5,14 +5,15 @@ public class linkedlist {
 		LinkedList<String> OyutniiMedeelel = new LinkedList<String>();
 		
 			//oyutnii medeelel awah
-		  	OyutniiMedeelel.add("Hello world. ~~");
+		  	OyutniiMedeelel.add("Hello world. ~~ 8r morcode oorchilson ");
 		  	//oorchlood
 		  
 		   	System.out.println(OyutniiMedeelel);    
 
 			//dahiad oorclow
-			System.out.println(OyutniiMedeelel);   
-			 	System.out.println(OyutniiMedeelel);   
-				  	System.out.println(OyutniiMedeelel);   
+			//mor zassan
+				int a;
+				a=10;
+				  	System.out.println("Nas : " + a );   
 	}		
 }
