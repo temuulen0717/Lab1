@@ -2,6 +2,7 @@ package lab1;
 import java.util.LinkedList;
 public class linkedlist {
 	public static void main(String[] args) {
+
 		LinkedList<String> OyutniiMedeelel = new LinkedList<String>();
 		
 			//oyutnii medeelel awah
@@ -13,7 +14,7 @@ public class linkedlist {
 			//dahiad oorclow
 			//mor zassan
 				int a;
-				a=10;
-				  	System.out.println("Nas : " + a );   
+				a=175;
+				  	System.out.println("Ondor : " + a );   
 	}		
 }
