@@ -14,7 +14,7 @@ public class linkedlist {
 			//dahiad oorclow
 			//mor zassan
 				int a;
-				a=175;
-				  	System.out.println("Ondor : " + a );   
+				a=100;
+				  	System.out.println("Ondor jin : " + a );   
 	}		
 }
